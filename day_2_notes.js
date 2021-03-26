@@ -16,3 +16,7 @@
 
 //how to commit:
 // git commit -m "your commit message here"
+
+//to view the commit:
+// git log
+//shows us commit hash, branch name, commit message, and other metadata
